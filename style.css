@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    color:gold;
+}
+p {
+    color: darkgoldenrod;
+}
